@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "910154828738",
+    "project_id": "appbanhang-5c950",
+    "storage_bucket": "appbanhang-5c950.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910154828738:android:6b146bd214b1f6ddd1a45b",
+        "android_client_info": {
+          "package_name": "com.example.appbanhang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910154828738-9rq2r5a7j59ls3tn5luib2ls6dl7jh1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appbanhang",
+            "certificate_hash": "fc86e44b6f34f057f7015d32db1ea00652cb5533"
+          }
+        },
+        {
+          "client_id": "910154828738-1qf9i8rdhqcsp2vs9pfrlg4jpquf660r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXqwrPpfjK8M2vLdZtLjkzpMiUGOOrhjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910154828738-1qf9i8rdhqcsp2vs9pfrlg4jpquf660r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
