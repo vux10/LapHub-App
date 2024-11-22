@@ -3,7 +3,7 @@
 ## Thông tin nhóm
 - Nhóm: 14
 - Khoa: Công nghệ thông tin
-- Học viện: Học viện Hàng không Việt Nam
+- Học viện Hàng không Việt Nam
 
 ## Hashtag
 - #FITVAA
