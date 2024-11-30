@@ -1,7 +1,7 @@
 # Project Name: LapHub App
 
 ## Thông tin nhóm
-- Nhóm: 14
+- Nhóm: 13
 - Khoa: Công nghệ thông tin
 - Học viện Hàng không Việt Nam
 
